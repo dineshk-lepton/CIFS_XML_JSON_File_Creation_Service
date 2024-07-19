@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Service_Running_Status_Check": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
